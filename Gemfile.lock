@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.8.0)
+    dotenv (2.2.1)
+    sequel (5.5.0)
+    tiny_tds (2.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  dotenv
+  sequel
+  tiny_tds
+
+BUNDLED WITH
+   1.16.1
